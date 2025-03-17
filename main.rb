@@ -3,17 +3,13 @@
 =begin 
 Instruction to run the program:
 
-2. Open terminal or command line in your computer
+1. Open terminal or command prompt in your computer
 
-3. This program requires Ruby to run. Check if you have Ruby installed by running :
-    ruby -v
-If Ruby is installed, you will see `ruby 2.6.10p210` or a different version
-If not, go to https://www.ruby-lang.org/en/ to install Ruby latest stable version in your computer
+2. Check README.md for instruction to install Ruby programming language
 
-4. Run the file by running the command: 
-    ruby <path/to/file>/main.rb
+3. Run the file by running the command: `ruby main.rb`
 
-5. Follow the prompt and provide inputs
+4. Follow the prompt and provide inputs
 =end
 
 #import all files
