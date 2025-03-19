@@ -60,7 +60,7 @@ def get_food
         option = gets.chomp.to_i
 
         if option < 1 || option > 6
-            puts "\nUh oh. It is inedible. Let's try again."
+            puts "\nThat is not an option. Let's try again."
             next
         end
         break
